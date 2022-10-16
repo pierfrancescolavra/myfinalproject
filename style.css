@@ -1,0 +1,174 @@
+body{
+  background-image:url("file:///Users/GiuliaLavra/Desktop/HTML/background.jpg");
+  background-size: 1300px 750px;
+  color: white;
+}
+
+.container{
+  width: 700px;
+  margin: auto;
+}
+
+.logo{
+  width: 220px;
+  margin: 20px;
+  padding-left: 205px;
+}
+
+.logo-text{
+  color: rgba(103, 235, 52);
+  font-family: Monaco;
+  font-size: 18px;
+  padding-left: 185px;
+}
+
+.quadrato0 {
+  background-color: black;
+  width: 400px;
+  height:360px;
+  padding: 150px;
+  margin-bottom: 200px;
+  opacity: 0.5;
+  border-radius: 10px;
+  position: absolute;
+  top: 10px;
+  z-index: -1;
+}
+
+.quadrato {
+  background-color: rgba(103, 235, 52);
+  width: 650px;
+  padding: 12px;
+  margin-top: 2px;
+  margin-left: 12px;
+  text-align: center;
+}
+
+.button1{
+  width:40%;
+  margin-left:15%;
+  margin-right:15%;
+}
+
+.button2{
+  width:40%;
+  margin-left:15%;
+  margin-right:15%;
+}
+
+.button3{
+  width:40%;
+  margin-left:15%;
+  margin-right:15%;
+}
+
+.container1{
+  width: 700px;
+  margin: 20px;
+}
+
+.text1{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 15px;
+}
+
+.text2{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 10px;
+}
+
+.text3{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 10px;
+}
+
+.quadrato2 {
+  background-color: rgba(250, 174, 102);
+  width: 200px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.container2{
+  width: 700px;
+  margin: 20px;
+}
+
+.text4{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 15px;
+  margin-left: 1px;
+}
+
+.text5{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 10px;
+  margin-left: 1px;
+}
+
+.text6{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 10px;
+  margin-left: 1px;
+}
+
+.quadrato3 {
+  background-color: rgba(59, 217, 2);
+  width: 360px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 5px;
+  margin-left: 20px;
+}
+
+.container3{
+  width: 700px;
+  margin: 20px;
+}
+
+.text7{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 15px;
+  margin-left: 1px;
+}
+
+.text8{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 10px;
+  margin-left: 1px;
+}
+
+.text9{
+  color: white;
+  font-family: Monaco;
+  text-align: left;
+  font-size: 10px;
+  margin-left: 1px;
+}
+
+.quadrato4 {
+  background-color: rgba(196, 58, 45);
+  width: 70px;
+  padding: 10px;
+  margin: auto;
+  border-radius: 5px;
+  margin-left: 20px;
+}
